@@ -1,0 +1,21 @@
+#include<iostream>
+using namespace std;
+
+int main() {
+  int p,l,luas,keliling;
+  
+  cout<<"Masukkan panjang: ";
+  cin>>p;
+  cout<<"Masukkan lebar: ;
+  cin>>l;
+  
+  luas=p*l;
+  keliling=2(p+l);
+  
+  cout<<"Jumlah Luas dan Keliling sebuah Persegi Panjang: ";
+  cin<<luas+keliling;
+  
+  return 0;
+  
+  }
+  
