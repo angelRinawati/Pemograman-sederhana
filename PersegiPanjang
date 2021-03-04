@@ -12,8 +12,8 @@ int main() {
   luas=p*l;
   keliling=2(p+l);
   
-  cout<<"Selisih Luas dan Keliling sebuah Persegi Panjang: ";
-  cin<<luas-keliling;
+  cout<<"Hasil Bagi Luas dan Keliling sebuah Persegi Panjang: ";
+  cin<<luas/keliling;
   
   return 0;
   
